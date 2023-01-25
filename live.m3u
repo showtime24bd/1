@@ -6,12 +6,13 @@ http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=2140104&e
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" ,LIVE 2
-https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" ,LIVE 3
-http://172.16.50.2:8082/Live-2/tracks-v1a1/mono.m3u8
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" ,LIVE 4
+http://172.16.50.2:8082/Live-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vipjihad/sportspic/2023/sa%20vs%20eng).png" ,LIVE 5
 https://cdn1.aliflailabd.com/nagorik-tv/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vipjihad/sportspic/2023/sa%20vs%20eng).png" ,LIVE 6
+https://cdn1.aliflailabd.com/nagorik-tv/tracks-v1a1/mono.m3u8
 
 https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/201
