@@ -1,187 +1,845 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vipjihad/sportspic/2023/ind-vs-nz-highlight-1669369411.png" , LIVE 1
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=2140104&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vipjihad/sportspic/2023/ind-vs-nz-highlight-1669369411.png" , LIVE 2
-https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 ,WILLOW-CRICKETHD
 
+http://freecatv-manik.xyz/WILLOW-CRICKETHD.ts
 
-#EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" ,LIVE 3
-https://cdn2.aliflailabd.com/nagorik-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.mykhel.com/img/2022/01/bpl-logo-1642596304.jpg" ,LIVE 4
-https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/201
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vipjihad/sportspic/2023/sa%20vs%20eng).png" ,LIVE 5
-https://cdn1.aliflailabd.com/nagorik-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vipjihad/sportspic/2023/sa%20vs%20eng).png" ,LIVE 6
-https://cdn1.aliflailabd.com/nagorik-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,T-SportsHD
 
+http://freecatv-manik.xyz/T-SportsHD.ts
 
+#EXTINF:-1 ,SuperSport-CricketHD
 
+http://freecatv-manik.xyz/SuperSport-CricketHD.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,GTV
-https://cdn2.aliflailabd.com/gazi-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-2 tvg-logo="http://15.1.5.14/assets/images/tsports.jpg" ,T Sports
-https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 ,SKY-SPORTS-CRICKET
 
-#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" ,PTV SPORTS
-http://15.1.1.10:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" ,SPORTS 18
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=282665&extension=ts&play_token=qWozOIBZjt
-#EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" ,WILLOW CRICKET 
-http://15.1.5.14:8082/willow-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-7 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,WILLOW XTRA
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=603036&extension=ts
-#EXTINF:-8 tvg-logo="https://supersport.com/_next/image?url=%2Fimages%2Fsupersport-logo.png&w=1920&q=75" ,SUPER FOOTBALL
-#EXTINF:-8 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" ,Astro CRICKET
-http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54242.ts
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=610011&extension=ts
-#EXTINF:-9 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/0/1/8/1339018_skysportscricket_810710.jpg"   ,SKY CRICKET
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=623906&extension=ts
-#EXTINF:-10 tvg-logo="https://th.bing.com/th/id/OIF.OtLnVehjTd8TMx1D8LJ3YA?pid=ImgDet&rs=1"  ,SUPER CRICKET
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=610018&extension=ts
-#EXTINF:-11 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png"    ,TEN SPORTS
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=809451&extension=ts
-http://208.86.19.13:81/60222.stream/index.m3u8
+http://freecatv-manik.xyz/SKY-SPORTS-CRICKET.ts
 
+#EXTINF:-1 ,Cricket-Astreo
 
-#EXTINF:-12 tvg-logo="http://15.1.5.14/assets/images/starsports1.jpg"   ,STAR SPORTS 1
-http://supermega.vip:25461/cheryl/cheryl/56776
-#EXTINF:-13 tvg-logo="http://15.1.5.14/assets/images/starsports2.jpg"   ,STAR SPORTS 2
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862745&extension=ts
-#EXTINF:-14 tvg-logo="http://15.1.5.14/assets/images/starselect1.jpg" ,STAR SELECT 1
-http://208.86.19.13:81/7366.stream/index.m3u8
-#EXTINF:-15 tvg-logo="http://15.1.5.14/assets/images/starselect2.jpg" ,STAR SELECT 2
-http://15.1.1.10:8282/select2/tracks-v1a1/mono.m3u8
-#EXTINF:-16 tvg-logo="http://15.1.5.14/assets/images/ten1hd.jpg"   ,SONY SPORTS 1
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862726&extension=ts
-#EXTINF:-17 tvg-logo="http://15.1.5.14/assets/images/ten2hd.jpg" ,SONY SPORTS 2
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862727&extension=ts
-#EXTINF:-18 tvg-logo="http://15.1.5.14/assets/images/ten3hd.jpg"  ,SONY SPORTS 3
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862728&extension=ts
-#EXTINF:-19 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" ,SONY SPORTS 4
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862729&extension=ts
-#EXTINF:-20 tvg-logo="http://15.1.5.14/assets/images/sonysixhd.jpg" ,SONY SPORTS 5
-http://15.1.1.10:8282/sony-six-hd/tracks-v1a1/mono.m3u8
+http://freecatv-manik.xyz/Cricket-Astreo.ts
 
+#EXTINF:-1 ,ASTRO_CRICKET
 
-#EXTINF:-21 tvg-logo="http://15.1.1.10/assets/images/btv.jpg" ,BTV
-http://15.1.1.10:8282/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-22 tvg-logo="http://15.1.1.10/assets/images/btvworld.jpg" ,btv-world
-http://15.1.1.10:8282/btv-world/tracks-v1a1/mono.m3u8
-#EXTINF:-23 tvg-logo="https://pcdn1.jagobd.com/images/m-h1mrj91652458969950.jpg" ,DBC_NEWS_HD
-https://tempe.jagobd.com:444/live-orgin/dbcnews.stream_480p/chunks.m3u8
-#EXTINF:-24 tvg-logo="https://i.pinimg.com/originals/84/9f/59/849f59af67ee6f8f136c4190af9c3e51.png",EKATTOR_HD
-https://cdn1.aliflailabd.com/ekattor/tracks-v1a1/mono.m3u8
-#EXTINF:-25 tvg-logo="https://pcdn1.jagobd.com/images/m-43tn3j1652458082734.jpg" ,INDEPENDENT_HD
-https://tempe.jagobd.com:444/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-26 tvg-logo="https://pcdn1.jagobd.com/images/m-nn8yn1652461803169.jpg" ,JAMUNA_TV_HD
-http://15.1.1.34:8282/jamuna-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-27 tvg-logo="https://pcdn1.jagobd.com/images/m-dv8vrp1652457820107.jpg" ,SAMOY_TV_HD
-http://15.1.1.34:8282/Somoy-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-28 tvg-logo="https://pcdn1.jagobd.com/images/m-l0qyis1652460521288.jpg",NEWS_24_HD
-http://15.1.1.34:8282/News24bd/tracks-v1a1/mono.m3u8
-#EXTINF:-29 tvg-logo="https://pcdn1.jagobd.com/images/m-d4dwye1603623881083.jpg" ,CHANNEL_24_HD
-http://15.1.1.34:8282/Channel24/tracks-v1a1/mono.m3u8
+http://freecatv-manik.xyz/ASTRO_CRICKET.m3u8
 
+#EXTINF:-1 ,ASTRO-CRICKET-HD1
 
-#EXTINF:-30 tvg-logo="http://15.1.5.14/assets/images/maasranga.jpg" ,MASRANGA_HD
-http://15.1.1.34:8282/maasranga/tracks-v1a1/mono.m3u8
-#EXTINF:-31 tvg-logo="http://15.1.1.10/assets/images/atnbangla.jpg" ,ATN ANGLA D
-http://15.1.1.34:8282/ATN-Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-32 tvg-logo="http://15.1.5.14/assets/images/channeli.jpg" ,CHANNEL I
-http://15.1.1.34:8282/Channel-i/tracks-v1a1/mono.m3u8
-#EXTINF:-33 tvg-logo="http://15.1.1.10/assets/images/ekushey.jpg" ,EKUSHEY TV
-http://15.1.1.34:8282/Ekushey-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-34 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png",RTV
-https://tempe.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-35 tvg-logo="http://15.1.5.14/assets/images/ntv.jpg" ,NTV HD
-http://15.1.1.34:8282/Ntv/tracks-v1a1/mono.m3u8
-#EXTINF:-36 tvg-logo="http://15.1.5.14/assets/images/satv.jpg" ,SATV HD
-http://15.1.1.34:8282/SATV/tracks-v1a1/mono.m3u8
-#EXTINF:-37 tvg-logo="http://15.1.5.14/assets/images/banglatv.jpg" ,BANGLA TV 
-http://15.1.1.34:8282/bangla-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-38 tvg-logo="http://15.1.5.14/assets/images/banglavision.jpg" ,BANGLAVISION 
-http://15.1.1.34:8282/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-39 tvg-logo="http://15.1.5.14/assets/images/boishakhi.jpg" ,BOISHAKHI TV
-http://15.1.1.34:8282/Boishakhi/tracks-v1a1/mono.m3u8
-#EXTINF:-40 tvg-logo="http://15.1.5.14/assets/images/nagorik.jpg" ,NAGORIK TV
-http://15.1.1.34:8282/nagorik-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-41 tvg-logo="http://15.1.5.14/assets/images/anandotv.jpg" ,ANONDO TV
-http://15.1.1.34:8282/anandotv/tracks-v1a1/mono.m3u8
+http://freecatv-manik.xyz/ASTRO-CRICKET-HD1.ts
 
-#EXTINF:-42 tvg-logo="http://15.1.5.14/assets/images/duronto.jpg" ,DURONTO TV
-http://15.1.1.10:8282/duronto-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,LALIGA-HD
 
-#EXTINF:-43 tvg-logo="http://15.1.5.14/assets/images/zeebanglahd.jpg" ,ZEE_BANGLA_HD
-http://15.1.1.34:8282/zee-bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-44 tvg-logo="http://15.1.5.14/assets/images/starjalshahd.jpg" ,STAR JALSHA
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862988&extension=ts&play_token=VRW07gXmnZ
-#EXTINF:-45 tvg-logo="http://15.1.5.14/assets/images/colorsbangla.jpg" ,COLORS BANGLA
-http://103.143.235.50/colorsbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-46 tvg-logo="http://15.1.5.14/assets/images/sonyaath.jpg" ,SONY AATH
-http://103.143.235.50/Sony_Aath/tracks-v1a1/mono.m3u8
+http://freecatv-manik.xyz/LALIGA-HD.ts
 
-#EXTINF:-47 tvg-logo="http://15.1.5.14/assets/images/zeetvhd.jpg" ,ZEE TV 
-http://103.143.235.50/zeetv/tracks-v1a1/mono.m3u8
-#EXTINF:-48 tvg-logo="http://15.1.1.10/assets/images/starplushd.jpg" , STAR PLUS
-http://103.143.235.50/stargold/tracks-v1a1/mono.m3u8
-#EXTINF:-49 tvg-logo="http://15.1.5.14/assets/images/stargold.jpg" ,STAR GOLD 
-http://103.143.235.50/stargold/tracks-v1a1/mono.m3u8
-#EXTINF:-50 tvg-logo="http://15.1.5.14/assets/images/starbharat.jpg" ,STAR BARAT
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
-#EXTINF:-51 tvg-logo="http://15.1.5.14/assets/images/colorshd.jpg" ,COLORS TV
-http://15.1.1.34:8282/colorsindia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,DAZN-LA-LIGA-HD
 
-#EXTINF:-52 tvg-logo="https://lh6.googleusercontent.com/-_BzzBn1YYHM/TX0DAvTOqlI/AAAAAAAAE5w/7AN9O0W6cVo/s1600/Logo+Discovery+Channel+2000.png" , Discovery Bangla
-http://103.143.235.50/Discovery/tracks-v1a1/mono.m3u8
-#EXTINF:-53 tvg-logo="http://15.1.5.14/assets/images/nationalgeobd.jpg" , NATIONAL GEOGRAPHICS
-http://103.143.235.50/National_Geographic/tracks-v1a1/mono.m3u8
-#EXTINF:-54 tvg-logo="http://15.1.5.14/assets/images/animalplanetnew.jpg" , ANIMAL PLANENT
-http://103.143.235.50/animalplanent/tracks-v1a1/mono.m3u8
+http://freecatv-manik.xyz/DAZN-LA-LIGA-HD.ts
 
+#EXTINF:-1 ,TRUE-PREMIER-4
 
-#EXTINF:-52 tvg-logo="dd" , SONY MAX
-http://15.1.1.10:8282/Sony-Max/tracks-v1a1/mono.m3u8
+http://freecatv-manik.xyz/TRUE-PREMIER-4.m3u8
 
-#EXTINF:-52 tvg-logo="dd" ,
+#EXTINF:-1 ,TRUE-PREMIER-3
 
+http://freecatv-manik.xyz/TRUE-PREMIER-3.m3u8
 
-#EXTINF:-52 tvg-logo="dd" , ZEE ACTION
-http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 ,TRUE-PREMIER-2
 
-#EXTINF:-52 tvg-logo="dd" , ZEE CINEMA
-http://15.1.1.10:8282/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+http://freecatv-manik.xyz/TRUE-PREMIER-2.m3u8
 
+#EXTINF:-1 ,TRUE-PREMIER 1
 
-#EXTINF:-52 tvg-logo="dd" ,UTV ACTION
-http://103.143.235.50/utvaction/tracks-v1a1/mono.m3u8
+http://freecatv-manik.xyz/TRUE-PREMIER.m3u8
 
+#EXTINF:-1 ,SONY TEN 1 HD
 
-#EXTINF:-52 tvg-logo="dd" ,B4U MOVIES
-http://208.86.19.13:81/636.stream/index.m3u8
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
+#EXTINF:-1 ,SONY TEN 2 HD
 
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
+#EXTINF:-1 ,SONY TEN 2
 
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
+#EXTINF:-1 ,SONY TEN 3 HD
 
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
+#EXTINF:-1 ,SONY TEN 3
 
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 
+#EXTINF:-1 ,SONY TEN 4 HD
 
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
+#EXTINF:-1 ,SONY TEN 4
 
-#EXTINF:-55 tvg-logo="http://15.1.5.14/assets/images/atnmusic.jpg" ,ATN_MUSIC_HD
-http://15.1.1.34:8282/ATN-MUSIC/tracks-v1a1/mono.m3u8
-#EXTINF:-56 tvg-logo="http://15.1.5.14/assets/images/gaanbangla.jpg" ,GAANBANGLA
-http://15.1.1.10:8282/GaanBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-57 tvg-logo="http://15.1.5.14/assets/images/9xjalwa.jpg" ,9X JALWA
-http://15.1.1.34:8282/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
-#EXTINF:-58 tvg-logo="http://15.1.1.10/assets/images/9xm.jpg" ,9XM_HD
-http://15.1.1.34:8282/9XM/tracks-v1a1/mono.m3u8
-#EXTINF:-59 tvg-logo="http://15.1.1.10/assets/images/starworld.jpg" ,STAR WORLD
-http://103.143.235.50/star-worldhd/tracks-v1a1/mono.m3u8
-#EXTINF:-60 tvg-logo="http://15.1.1.10/assets/images/moviesnowhd.jpg" ,MOVIE NOW
-http://103.143.235.50/movies-now/tracks-v1a1/mono.m3u8
-#EXTINF:-61 tvg-logo="http://15.1.1.10/assets/images/sonypix.jpg" ,SONY PIX
-http://103.143.235.50/sonypixhd/tracks-v1a1/mono.m3u8
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:-1 ,SONY TEN 5 HD
+
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+#EXTINF:-1 ,SONY TEN 5
+
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
+#EXTINF:-1 ,Gazitv
+
+http://freecatv-manik.xyz/Gazitv.m3u8
+
+#EXTINF:-1 ,Sky Sports Liga EspaÃ±ola
+
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8
+
+#EXTINF:-1 ,BEIN-PREMIUM-1-HD
+
+http://freecatv-manik.xyz/BEIN-PREMIUM-1-HD.ts
+
+#EXTINF:-1 ,Fox-Sports-Premium-MX
+
+http://freecatv-manik.xyz/Fox-Sports-Premium-MX.m3u8
+
+#EXTINF:-1 ,Sports18 Khel
+
+http://freecatv-manik.xyz/Sports18-Khelm.m3u8
+
+#EXTINF:-1 ,Sports18~1
+
+http://freecatv-manik.xyz/Sports18-1.m3u8
+
+#EXTINF:-1 ,Sports18~1~HD
+
+http://freecatv-manik.xyz/Sports18~1~HD.m3u8
+
+#EXTINF:-1 ,TRUE-VISIONS-1
+
+http://freecatv-manik.xyz/TRUE-VISIONS-1.m3u8
+
+#EXTINF:-1 ,TRUE-TENNI
+
+http://freecatv-manik.xyz/TRUE-TENNI.m3u8
+
+#EXTINF:-1 ,BT-Sports-2HD
+
+http://freecatv-manik.xyz/BT-Sports-2HD.m3u8
+
+#EXTINF:-1 ,bEIN-Sports
+
+http://freecatv-manik.xyz/bEIN-Sports-EN.m3u8
+
+#EXTINF:-1 ,PTV-Sports
+
+http://freecatv-manik.xyz/PTV-Sports.m3u8
+
+#EXTINF:-1 ,DIGI Sport 1
+
+http://84.17.61.203:8086/udp/229.35.15.121:1234
+
+#EXTINF:-1 ,DIGI Sport 2
+
+http://84.17.61.203:8086/udp/229.35.15.105:1234
+
+#EXTINF:-1 ,DIGI Sport 3
+
+http://84.17.61.203:8086/udp/229.35.15.108:1234
+
+#EXTINF:-1 ,DIGI Sport 4 HD
+
+http://84.17.61.203:8086/udp/229.35.15.151:1234
+
+#EXTINF:-1 ,Orange Sport 3 HD
+
+http://84.17.61.203:8086/udp/229.35.15.182:1234
+
+#EXTINF:-1 ,TUDN ðŸ‡²ðŸ‡½
+
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+
+#EXTINF:-1 ,K+SPORT1 s1
+
+http://103.82.24.168:5544/play/sport1tn/index.m3u8
+
+#EXTINF:-1 ,K+SPORT1 s2
+
+http://103.82.24.168:5544/play/sdsport1/index.m3u8
+
+#EXTINF:-1 ,K+SPORT2
+
+http://103.82.24.168:5544/play/sdsport2/index.m3u8
+
+#EXTINF:-1 ,K+LIFE
+
+http://103.82.24.168:5544/play/life/index.m3u8
+
+#EXTINF:-1 ,Astro-Cricket-HD
+
+http://freecatv-manik.xyz/Astro-Cricket-HD.m3u8
+
+#EXTINF:-1 ,Cricket~Live
+
+http://freecatv-manik.xyz/Cricket~Live.ts
+
+#EXTINF:-1 ,SKYSPORTS~CRICKET
+
+http://freecatv-manik.xyz/SKYSPORTS~CRICKET.ts
+
+#EXTINF:-1 ,Astro-Cricket
+
+http://freecatv-manik.xyz/Astro-Cricket.ts
+
+#EXTINF:-1 ,DSTV-PSL
+
+http://freecatv-manik.xyz/DSTV-PSL.ts
+
+#EXTINF:-1 ,DSTV-premierLiga
+
+http://freecatv-manik.xyz/DSTV-premierLiga.ts
+
+#EXTINF:-1 ,DSTV maximo-1
+
+http://freecatv-manik.xyz/Dstv-maximo-1.ts
+
+#EXTINF:-1 ,DSTV motorsport
+
+http://freecatv-manik.xyz/DSTVmotorsport.ts
+
+#EXTINF:-1 ,Ss.cricket DSTV
+
+http://freecatv-manik.xyz/Ss.cricket.ts
+
+#EXTINF:-1 ,Ss.ruby DSTV
+
+http://freecatv-manik.xyz/Ss.ruby.ts
+
+#EXTINF:-1 ,Super-Sports-Action
+
+http://freecatv-manik.xyz/Super-Sports-Action.ts
+
+#EXTINF:-1 ,K SPORT 1 ðŸ‡¦ðŸ‡±
+
+http://tbs-tv.com:8080/dark/kittylinetv/13572
+
+#EXTINF:-1 ,ESPN 2 ðŸ‡¦ðŸ‡·
+
+http://45.190.13.50:8002/play/a01k/index.m3u8
+
+#EXTINF:-1 ,ASTRO_SUPERSPORT 1
+
+http://hostengine.live/live/wrecks82/habsiptv82/197514.m3u8
+
+#EXTINF:-1 ,ASTRO_SUPERSPORT 2
+
+http://hostengine.live/live/wrecks82/habsiptv82/197515.m3u8
+
+#EXTINF:-1 ,ASTRO_SUPERSPORT 3
+
+http://hostengine.live/live/wrecks82/habsiptv82/197516.m3u8
+
+#EXTINF:-1 ,ASTRO_SUPERSPORT 4
+
+http://hostengine.live/live/wrecks82/habsiptv82/197517.m3u8
+
+#EXTINF:-1 ,ASTRO_SUPERSPORT 5
+
+http://hostengine.live/live/wrecks82/habsiptv82/197518.m3u8
+
+#EXTINF:-1 ,BEINSPORTS 1
+
+http://hostengine.live/live/wrecks82/habsiptv82/112415.m3u8
+
+#EXTINF:-1 ,BEINSPORTS 2
+
+http://hostengine.live/live/wrecks82/habsiptv82/112416.m3u8
+
+#EXTINF:-1 ,BEINSPORTS 3
+
+http://hostengine.live/live/wrecks82/habsiptv82/112417.m3u8
+
+#EXTINF:-1 ,FOXSPORTS 501
+
+http://hostengine.live/live/wrecks82/habsiptv82/57493.m3u8
+
+#EXTINF:-1 ,FOXSPORTS 502
+
+http://hostengine.live/live/wrecks82/habsiptv82/57494.m3u8
+
+#EXTINF:-1 ,FOXSPORTS 503
+
+http://hostengine.live/live/wrecks82/habsiptv82/57495.m3u8
+
+#EXTINF:-1 ,FOXSPORTS 504
+
+http://hostengine.live/live/wrecks82/habsiptv82/57496.m3u8
+
+#EXTINF:-1 ,FOXSPORTS 505
+
+http://hostengine.live/live/wrecks82/habsiptv82/57497.m3u8
+
+#EXTINF:-1 ,FOXSPORTS 506
+
+http://hostengine.live/live/wrecks82/habsiptv82/57498.m3u8
+
+#EXTINF:-1 ,BEINSPORTS ENGLISH 01
+
+http://hostengine.live/live/wrecks82/habsiptv82/56341.m3u8
+
+#EXTINF:-1 ,BEINSPORTS ENGLISH 02
+
+http://hostengine.live/live/wrecks82/habsiptv82/56342.m3u8
+
+#EXTINF:-1 ,BEINSPORTS ENGLISH 03
+
+http://hostengine.live/live/wrecks82/habsiptv82/56343.m3u8
+
+#EXTINF:-1 ,BEINSPORTS LALIGA
+
+http://hostengine.live/live/wrecks82/habsiptv82/56352.m3u8
+
+#EXTINF:-1 ,BEINSPORTS PREMIUM 01
+
+http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
+
+#EXTINF:-1 ,BEINSPORTS PREMIUM 02
+
+http://hostengine.live/live/wrecks82/habsiptv82/56344.m3u8
+
+#EXTINF:-1 ,BEINSPORTS PREMIUM 03
+
+http://hostengine.live/live/wrecks82/habsiptv82/56345.m3u8
+
+#EXTINF:-1 ,BEINSPORTS USA
+
+http://hostengine.live/live/wrecks82/habsiptv82/56353.m3u8
+
+#EXTINF:-1 ,BEINSPORTS XTRA
+
+http://hostengine.live/live/wrecks82/habsiptv82/58290.m3u8
+
+#EXTINF:-1 ,WINSPORTS 1
+
+http://hostengine.live/live/wrecks82/habsiptv82/160057.m3u8
+
+#EXTINF:-1 ,ASTRO_CRICKET
+
+http://hostengine.live/live/wrecks82/habsiptv82/231004.m3u8
+
+#EXTINF:-1 ,GEO_SUPER
+
+http://hostengine.live/live/wrecks82/habsiptv82/69277.m3u8
+
+#EXTINF:-1 ,PTV_SPORTS
+
+http://hostengine.live/live/wrecks82/habsiptv82/69284.m3u8
+
+#EXTINF:-1 ,ONE_SPORT
+
+http://hostengine.live/live/wrecks82/habsiptv82/179393.m3u8
+
+#EXTINF:-1 ,BEINSPORTS 1
+
+http://hostengine.live/live/wrecks82/habsiptv82/57391.m3u8
+
+#EXTINF:-1 ,BEINSPORTS 2
+
+http://hostengine.live/live/wrecks82/habsiptv82/57392.m3u8
+
+#EXTINF:-1 ,SPORTS HD
+
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93721
+
+#EXTINF:-1 ,STARSPORTSâ€¢1 HD ENGLISH
+
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93724
+
+#EXTINF:-1 ,STARSPORTSâ€¢1 HD HINDI
+
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93725
+
+#EXTINF:-1 ,STARSPORTSâ€¢2 HD
+
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93726
+
+#EXTINF:-1 ,STARSPORTSâ€¢3
+
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93727
+
+#EXTINF:-1 ,STARSPORTSâ€¢SELECTâ€¢1 HD
+
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93729
+
+#EXTINF:-1 ,STARSPORTSâ€¢SELECTâ€¢2 HD
+
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93730
+
+#EXTINF:-1 ,STARSPORTSâ€¢TAMIL
+
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93731
+
+#EXTINF:-1 ,TENâ€¢1 HD
+
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93732
+
+#EXTINF:-1 ,TENâ€¢3 HD
+
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93734
+
+#EXTINF:-1 ,STARSPORTS 1 HD
+
+http://hostengine.live/live/wrecks82/habsiptv82/56776.m3u8
+
+#EXTINF:-1 ,BT-SPORTS 01
+
+http://hostengine.live/live/wrecks82/habsiptv82/53850.m3u8
+
+#EXTINF:-1 ,BT-SPORTS 02
+
+http://hostengine.live/live/wrecks82/habsiptv82/53851.m3u8
+
+#EXTINF:-1 ,BT-SPORTS 03
+
+http://hostengine.live/live/wrecks82/habsiptv82/53852.m3u8
+
+#EXTINF:-1 ,BT-SPORTS 04
+
+http://hostengine.live/live/wrecks82/habsiptv82/53853.m3u8
+
+#EXTINF:-1 ,BT-SPORTS 05
+
+http://hostengine.live/live/wrecks82/habsiptv82/53854.m3u8
+
+#EXTINF:-1 ,BT_SPORTS 07
+
+http://hostengine.live/live/wrecks82/habsiptv82/53856.m3u8
+
+#EXTINF:-1 ,BT-SPORTS 08
+
+http://hostengine.live/live/wrecks82/habsiptv82/53857.m3u8
+
+#EXTINF:-1 ,BT-SPORTS 09
+
+http://hostengine.live/live/wrecks82/habsiptv82/53858.m3u8
+
+#EXTINF:-1 ,BT-SPORTS 10
+
+http://hostengine.live/live/wrecks82/habsiptv82/53859.m3u8
+
+#EXTINF:-1 ,Sky Sport Premier League FHD
+
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284459
+
+#EXTINF:-1 ,Sky Sport Golf FHD
+
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284461
+
+#EXTINF:-1 ,Sky Sport Tennis FHD
+
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/284467
+
+#EXTINF:-1 ,DAZN 1 Bar
+
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96685
+
+#EXTINF:-1 ,DAZN 1 Bar FHD
+
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96686
+
+#EXTINF:-1 ,DAZN 2
+
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96687
+
+#EXTINF:-1 ,DAZN 2 Bar FHD
+
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96688
+
+#EXTINF:-1 ,DAZN 1 HD
+
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
+
+#EXTINF:-1 ,DAZN 2 HD
+
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
+
+#EXTINF:-1 ,Sportdigital FHD
+
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238119
+
+#EXTINF:-1 ,ARENA SPORT 7 ðŸ‡­ðŸ‡·
+
+http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/153575
+
+#EXTINF:-1 ,MAX SPORT 3 ðŸ‡§ðŸ‡¬
+
+http://212.5.59.2:9882/play/a019/index.m3u8?
+
+#EXTINF:-1 ,Gazi Tv
+
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+
+#EXTINF:-1 ,t sports
+
+http://103.102.27.173/live/tvfeed1004/index.m3u8
+
+#EXTINF:-1 ,Eurosports live
+
+http://51.15.9.155/EUROSPORT_2/index.m3u8
+
+#EXTINF:-1 ,Sony Liv
+
+https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
+
+#EXTINF:-1 ,Eurosport 1
+
+http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
+
+#EXTINF:-1 ,Eurosport 2
+
+http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
+
+#EXTINF:-1 ,Q Sport International
+
+http://176.222.190.76/btv/SWM/Qsport_international/Qsport_international.m3u8
+
+#EXTINF:-1 ,Viasat Sport
+
+http://176.222.190.76/btv/SWM/viasatsport/viasatsport.m3u8
+
+#EXTINF:-1 ,Sony Ten 2 HD
+
+http://175.107.244.52:4455/play/a00v/index.m3u8
+
+#EXTINF:-1 ,TV3 SPORT ðŸ‡±ðŸ‡¹
+
+http://myott.top/stream/25SMQ9HCKV/416.m3u8
+
+#EXTINF:-1 ,Red-Bull-TV
+
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 ,Star Sports 2
+
+http://b403da4c.cbilant.com/iptv/7LSGLHX6AZUKEY/2507/index.m3u8
+
+#EXTINF:-1 ,Arena Sport 4 ðŸ‡§ðŸ‡¦
+
+http://94.250.2.6:7374/play/a012/index.m3u8
+
+#EXTINF:-1 ,Eurosport 1 HD
+
+http://ky-iptv.com:80/chris7676/chris7676/1846756.ts
+
+#EXTINF:-1 ,EuroSport 1 HD
+
+http://ky-iptv.com:80/chris7676/chris7676/391450.ts
+
+#EXTINF:-1 ,Eurosport 2 HD
+
+http://ky-iptv.com:80/chris7676/chris7676/1847082.ts
+
+#EXTINF:-1 ,BT Sports 3
+
+http://ky-iptv.com:80/chris7676/chris7676/1846764.ts
+
+#EXTINF:-1 ,Sky Sports Action
+
+http://ky-iptv.com:80/chris7676/chris7676/1846771.ts
+
+#EXTINF:-1 ,Sky Sports Arena
+
+http://ky-iptv.com:80/chris7676/chris7676/1846772.ts
+
+#EXTINF:-1 ,Sky Sports F1
+
+http://ky-iptv.com:80/chris7676/chris7676/1846774.ts
+
+#EXTINF:-1 ,Sky Sports Main Events
+
+http://ky-iptv.com:80/chris7676/chris7676/1847084.ts
+
+#EXTINF:-1 ,Cricket
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/157565
+
+#EXTINF:-1 ,WILLOWnCRICKET HD
+
+http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93735
+
+#EXTINF:-1 ,SKYSPORTS~CRICKET FHD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303880
+
+#EXTINF:-1 ,SuperSport Cricket
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11637
+
+#EXTINF:-1 ,Astro SuperSport
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/146068
+
+#EXTINF:-1 ,Astro SuperSport 2
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/157556
+
+#EXTINF:-1 ,Astro SuperSport 3
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/157557
+
+#EXTINF:-1 ,Astro SuperSport 4
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/157558
+
+#EXTINF:-1 ,Astro SuperSport 5
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/287792
+
+#EXTINF:-1 ,SuperSport 2
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/1312
+
+#EXTINF:-1 ,SuperSport 3
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/1319
+
+#EXTINF:-1 ,SuperSport 4
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/1318
+
+#EXTINF:-1 ,SuperSport 5
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/1860
+
+#EXTINF:-1 ,SuperSport 6
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/3638
+
+#EXTINF:-1 ,SuperSport News
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/1313
+
+#EXTINF:-1 ,SuperSport Action
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/194354
+
+#EXTINF:-1 ,SuperSport Blitz
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/281536
+
+#EXTINF:-1 ,SuperSport Football
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/38575
+
+#EXTINF:-1 ,SuperSport Golf
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11641
+
+#EXTINF:-1 ,SuperSport Grandstand
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/194353
+
+#EXTINF:-1 ,SuperSport LaLiga
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/194358
+
+#EXTINF:-1 ,SuperSport Maximo 1
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/38572
+
+#EXTINF:-1 ,SuperSport Maximo 2
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/297476
+
+#EXTINF:-1 ,SuperSport Motorsport
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11638
+
+#EXTINF:-1 ,SuperSport PremierLeague
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11642
+
+#EXTINF:-1 ,SuperSport PSL
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11643
+
+#EXTINF:-1 ,SuperSport Rugby
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11639
+
+#EXTINF:-1 ,SuperSport Tennis
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/15200
+
+#EXTINF:-1 ,SuperSport Variety 2
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11634
+
+#EXTINF:-1 ,SuperSport Variety 3
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11635
+
+#EXTINF:-1 ,SuperSport Variety 4
+
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11636
+
+#EXTINF:-1 ,beIN-SPORTS-3
+
+http://freecatv-manik.xyz/beIN-SPORTS-3.ts
+
+#EXTINF:-1 ,beIN-SPORTS-2
+
+http://freecatv-manik.xyz/beIN-SPORTS-2.ts
+
+#EXTINF:-1 ,beIN-SPORTS-1
+
+http://freecatv-manik.xyz/beIN-SPORTS-1.ts
+
+#EXTINF:-1 ,STAR-SPORTS-SELECT-2-HD
+
+http://freecatv-manik.xyz/STAR-SPORTS-SELECT-2-HD.ts
+
+#EXTINF:-1 ,STAR-SPORTS-SELECT-1-HD
+
+http://freecatv-manik.xyz/STAR-SPORTS-SELECT-1-HD.ts
+
+#EXTINF:-1 ,STAR-SPORTS-3-HD
+
+http://freecatv-manik.xyz/STAR-SPORTS-3-HD.ts
+
+#EXTINF:-1 ,STAR-SPORTS-2-HD
+
+http://freecatv-manik.xyz/STAR-SPORTS-2-HD.ts
+
+#EXTINF:-1 ,Star-Sports-1-HD
+
+http://freecatv-manik.xyz/Star-Sports-1-HD.ts
+
+#EXTINF:-1 ,SONY-SPORTS-3
+
+http://freecatv-manik.xyz/SONY-SPORTS-3.ts
+
+#EXTINF:-1 ,SONY-SPORTS-2
+
+http://freecatv-manik.xyz/SONY-SPORTS-2.ts
+
+#EXTINF:-1 ,SONY-SPORTS-1
+
+http://freecatv-manik.xyz/SONY-SPORTS-1.ts
+
+#EXTINF:-1 ,VIAPLAY-SPORTS-2
+
+http://freecatv-manik.xyz/VIAPLAY-SPORTS-2.ts
+
+#EXTINF:-1 ,VIAPLAY-SPORTS-1
+
+http://freecatv-manik.xyz/VIAPLAY-SPORTS-1.ts
+
+#EXTINF:-1 ,Sky-Sports-F1-HD
+
+http://freecatv-manik.xyz/Sky-Sports-F1-HD.ts
+
+#EXTINF:-1 ,Sky-Sports-Main-Event
+
+http://freecatv-manik.xyz/Sky-Sports-Main-Event.ts
+
+#EXTINF:-1 ,Sky-Sports-Football
+
+http://freecatv-manik.xyz/Sky-Sports-Football.ts
+
+#EXTINF:-1 ,Sky-Sports-Premier-League
+
+http://freecatv-manik.xyz/Sky-Sports-Premier-League.ts
+
+#EXTINF:-1 ,SuperSport-Action
+
+http://freecatv-manik.xyz/SuperSport-Action.ts
+
+#EXTINF:-1 ,SKYSPORTS~CRICKET-FHD
+
+http://freecatv-manik.xyz/SKYSPORTS~CRICKET-FHD.ts
+
+#EXTINF:-1 ,BT~Sport 1
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303861
+
+#EXTINF:-1 ,BT~Sport 2
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303862
+
+#EXTINF:-1 ,BT~Sport 3
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303863
+
+#EXTINF:-1 ,BT~Sport ESPN HD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303864
+
+#EXTINF:-1 ,Eurosport~1 HD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303868
+
+#EXTINF:-1 ,FREESPORTS
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303871
+
+#EXTINF:-1 ,LIVERPOOL~FC HD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303872
+
+#EXTINF:-1 ,MAN~UNITED TV
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303873
+
+#EXTINF:-1 ,Racing~UK FHD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303874
+
+#EXTINF:-1 ,Premier~Sports 1 HD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303875
+
+#EXTINF:-1 ,SKYSPORTS~ACTION HD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303877
+
+#EXTINF:-1 ,SKYSPORTS~ARENA HD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303878
+
+#EXTINF:-1 ,SKYSPORTS~F1 HD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303881
+
+#EXTINF:-1 ,SKYSPORTS~FOOTBALL FHD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303882
+
+#EXTINF:-1 ,SKYSPORTS~MAINEVENT HD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303884
+
+#EXTINF:-1 ,SkySports~Mix FHD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303885
+
+#EXTINF:-1 ,SKYSPORTS~NEWS HD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303886
+
+#EXTINF:-1 ,SKYSPORTS~PL HD
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303887
+
+#EXTINF:-1 ,SKYSPORTS~RACING
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/303888
+
+#EXTINF:-1 ,SKYSPORTS||FOOTBALL
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/343300
+
+#EXTINF:-1 ,WWE~NETWORK
+
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/319058
